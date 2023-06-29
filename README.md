@@ -1,4 +1,4 @@
-## SuperShop - Single Vendor Ecommerce Application
+## unique artistic lane
 
 
 ### FrontEnd Application Folder Structure
